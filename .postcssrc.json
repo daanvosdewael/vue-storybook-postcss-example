@@ -1,0 +1,11 @@
+{
+    "plugins": {
+        "postcss-preset-env": {
+            "features": {
+                "nesting-rules": true
+            },
+            "stage": 2
+        },
+        "postcss-pxtorem": {}
+    }
+}
